@@ -1,0 +1,10 @@
+# 运行依赖
+PyQt5>=5.15.0
+numpy>=1.20
+soundcard>=0.4.0
+
+# 可选：把程序打包成 exe
+# pyinstaller>=6.0
+
+# 可选：音频格式转换（例如 mp3 批量转 wav）
+# imageio-ffmpeg>=0.4
